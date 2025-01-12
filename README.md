@@ -1,4 +1,4 @@
-👋 Hi there, **I'm Sagi Laufer**, and I'm part of the **[Env0](https://www.env0.com) Engineering team** 🔧
+👋 Hi there, **I'm Sagi Laufer**, and I'm part of the **[env0](https://www.env0.com) Engineering team** 🔧
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sagilaufer1992&show_icons=true&count_private=true&theme=nord&hide=stars&rank_icon=github" alt="env0-logo-with-text" width="50%">
 </p>
